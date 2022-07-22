@@ -16,7 +16,6 @@ title_color: "c792ea",
     bg_color: "011627",
 -->
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThisIsNiceName" /> <div>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ThisIsNiceName" /> </div>
 
