@@ -41,9 +41,9 @@ title_color: "c792ea",
 
 <br> <br>
 
+<!-- leetcode记录 -->
 <div align="center"> <img src="https://stats.justsong.cn/api/leetcode/?username=SSSSSoShy&theme=dark"> </div>
 
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"> </div>
 
 <!--
 **ThisIsNiceName/ThisIsNiceName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
