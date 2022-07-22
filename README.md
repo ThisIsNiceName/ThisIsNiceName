@@ -2,7 +2,7 @@
 
 
 <!--  原文 https://zhuanlan.zhihu.com/p/454597068  https://metrics.lecoq.io/  输入自己ID自动生成所有和你相关的数据 -->
-<div align="center"> <img src="https://metrics.lecoq.io/ThisIsNiceName?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai"></div>
+<div align="center"> <img src="https://metrics.lecoq.io/ThisIsNiceName?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <br> <br>
 
