@@ -50,10 +50,10 @@ title_color: "c792ea",
 
 <br> 
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=cout&nbsp;&lt;&lt;&nbsp;HelloWorld;;&center=true&size=27"> </a> </h1>
+<h1 align="center">  <img src="https://readme-typing-svg.herokuapp.com/?lines=cout&nbsp;&lt;&lt;&nbsp;HelloWorld;;&center=true&size=27">  </h1>
 
 
-<!--
+<!--  <a href="https://sunguoqi.com/">  </a>
 **ThisIsNiceName/ThisIsNiceName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
